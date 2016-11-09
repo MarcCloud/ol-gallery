@@ -1,0 +1,23 @@
+{
+  "name": "ol-gallery",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "react-scripts": "0.7.0"
+  },
+  "dependencies": {
+    "aframe": "^0.3.2",
+    "aframe-react": "^3.4.0",
+    "ramda": "^0.22.1",
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2",
+    "rx": "^4.1.0",
+    "rx-dom": "^7.0.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
